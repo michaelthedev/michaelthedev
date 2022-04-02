@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael Arawole
 ===================================
 
-Backend web developer
+Backend Web / API developer
 ------------------------
 
 I have been coding since 2017. I am proficient in PHP mostly and JavaScript, although I have dabbled in other languages like SQL, Python. I am always willing to learn something new and interesting
@@ -16,6 +16,8 @@ src="https://img.shields.io/twitter/follow/michaelarawole?logo=twitter&style=for
 /></a>
 
 ### Current Skills
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 	<a href="https://www.php.net" target="_blank" rel="noreferrer">
