@@ -1,7 +1,7 @@
-Hi 👋 My name is Michael Arawole
+Hi 👋 I'm Michael Arawole
 ===================================
 
-Backend Web / API developer
+Backend (PHP) / API developer
 ------------------------
 
 I have been coding since 2017. I am proficient in PHP mostly and JavaScript, although I have dabbled in other languages like SQL, Python. I am always willing to learn something new and interesting
