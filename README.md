@@ -11,6 +11,8 @@ I have been coding since 2017. I am proficient in PHP mostly and JavaScript, alt
 * 🚀  Current project [QrPay](https://github.com/michael-arawole/qrpay)
 * ⚡  I'm open to work
 
+[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12902649)](https://stackoverflow.com/users/12902649/michael)
+
 <a href="https://www.twitter.com/michaelarawole" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/michaelarawole?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a>
