@@ -8,7 +8,7 @@ I have been coding professionally since 2017. I am proficient in PHP mostly and 
 
 * 🌍  I'm based in Nigeria
 * ✉️  Contact me at [michael@logad.net](mailto:michael@logad.net)
-* 🚀  Current project [Synote](https://github.com/michael-arawole/synote)
+* 🚀  Most recent project [Synote](https://github.com/michael-arawole/synote)
 * ⚡  I'm open to work
 
 [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12902649)](https://stackoverflow.com/users/12902649/michael)
