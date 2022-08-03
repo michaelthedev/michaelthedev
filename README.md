@@ -1,4 +1,4 @@
-Hi 👋 I'm Michael Arawole
+Hi I'm Michael
 ===================================
 
 Backend PHP & API developer
