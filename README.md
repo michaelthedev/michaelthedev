@@ -14,7 +14,7 @@ I have been coding professionally since 2017. I am proficient in PHP mostly and 
 [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12902649)](https://stackoverflow.com/users/12902649/michael)
 
 <a href="https://www.twitter.com/michaelarawole" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/michaelarawole?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/michaelthedev_?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a>
 
 ### Current Skills
