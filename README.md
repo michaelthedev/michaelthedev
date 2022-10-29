@@ -8,7 +8,7 @@ I have been coding professionally since 2017. I am proficient in PHP mostly and 
 
 * 🌍  I'm based in Nigeria
 * ✉️  Contact me at [michael@logad.net](mailto:michael@logad.net)
-* 🚀  Most recent project [React & Tailwind Blog](https://github.com/michael-arawole/react-blog)
+* 🚀  Most recent project [LogadApp\Router](https://github.com/michael-arawole/logadapp-php-router)
 * ⚡  I'm open to work
 
 [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12902649)](https://stackoverflow.com/users/12902649/michael)
