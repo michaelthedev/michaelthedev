@@ -1,71 +1,92 @@
-Hi I'm Michael Arawole
-===================================
+### <div align="center">I'm Michael, a full stack web developer</div>  
+  
 
-Backend PHP & API developer
-------------------------
+I have been coding professionally since 2017. I am proficient in PHP mostly and JavaScript.  
+  
 
-I have been coding professionally since 2017. I am proficient in PHP mostly and JavaScript, although I have dabbled in other languages like SQL, Python. I am always willing to learn something new and interesting
+- 📍 I’m currently based in Nigeria  
+  
 
-* 🌍  I'm based in Nigeria
-* ✉️  Contact me at [michael@logad.net](mailto:michael@logad.net)
-* 🚀  Most recent project [LogadApp\Router](https://github.com/michael-arawole/logadapp-php-router)
-* ⚡  I'm open to work
+- 📥 Contact me at michael@logad.net  
+  
 
-[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12902649)](https://stackoverflow.com/users/12902649/michael)
+- 🚀 Most recent project [LogadApp\Router](https://github.com/michaelthedev/logadapp-php-router)  
+  
 
-<a href="https://www.twitter.com/michaelarawole" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/michaelthedev_?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
-/></a>
-
-### Current Skills
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left">
-	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" />
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
-	</a>
-	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="36" height="36" alt="Electron JS" />
-	</a>
-	<a href="https://jquery.com" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="36" height="36" alt="jQuery" />
-	</a>
-	<a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="NPM" />
-	</a>
-	<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" width="36" height="36" alt="PHPStorm" />
-	</a>
-	<a href="https://www.postman.com" target="_blank" rel="noreferrer">
-		<img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="36" height="36" alt="Postman" />
-	</a>
-</p>
+<br/>  
 
 
-### Socials
+## My Skill Set  
 
-<p align="left">
-	<a href="https://www.github.com/michael-arawole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-	<a href="http://www.instagram.com/michaelthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-	<a href="https://www.linkedin.com/in/michaelarawole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-	<a href="https://www.twitter.com/michaelthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
 
-### Badges
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>  
 
-<b>My GitHub Stats</b>
+<br/>  
 
-<a href="http://www.github.com/michael-arawole"><img src="https://github-readme-stats.vercel.app/api?username=michael-arawole&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="pablocm90's GitHub stats" /></a>
 
-<a href="http://www.github.com/michael-arawole"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michael-arawole&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/michaelthedev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/michaelthedev" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/_michaelthedev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/michaelthedev" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/12902649/michaelthedev" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/michael-arawole" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<a href="http://www.github.com/michael-arawole"><img src="https://activity-graph.herokuapp.com/graph?username=michael-arawole&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br/>  
 
-<a href="https://github.com/michael-arawole" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-arawole&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&count_private=true&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Github Stats  
+
+<a href="http://www.github.com/michaelthedev"><img src="https://github-readme-stats.vercel.app/api?username=michaelthedev&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="pablocm90's GitHub stats" /></a>
+
+<a href="http://www.github.com/michaelthedev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelthedev&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/michaelthedev"><img src="https://activity-graph.herokuapp.com/graph?username=michaelthedev&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/michaelthedev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-arawole&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&count_private=true&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=michaelthedev&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
