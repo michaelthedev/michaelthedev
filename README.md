@@ -1,4 +1,4 @@
-### <div align="center">I'm Michael, a full stack web developer</div>  
+# Hi I'm Michael, a full stack web developer  
   
 
 I have been coding professionally since 2017. I am proficient in PHP mostly and JavaScript.  
