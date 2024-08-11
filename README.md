@@ -14,7 +14,7 @@
    * Symfony
    * Laravel
   
-2. Frontent
+2. Frontend
    * HTML
    * CSS
    * JavaScript
