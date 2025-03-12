@@ -39,7 +39,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=michaelthedev&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![](https://streak-stats.demolab.com/?user=michaelthedev&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ---
 <img src="https://komarev.com/ghpvc/?username=michaelthedev&&style=flat-square" align="center" />
