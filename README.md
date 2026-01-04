@@ -1,5 +1,5 @@
 # Hi I'm Michael, a fullstack web developer
-🌱 I have been coding since 2017<br>💬 I am proficient in PHP mostly and JavaScript<br>📍 I’m currently based in Nigeria<br>👨‍💻 I like experimenting and understanding how things work<br>🚀 Projects by me, you should check [LogadApp\Validator](https://github.com/logadapp/validator)<br>📥 Contact me at mycodemichael[at]gmail.com OR michael[at]logad.net
+🌱 I have been coding since 2017<br>💬 I am proficient in PHP mostly and JavaScript. One of the top PHP devs in Nigeria 🚀<br>📍 I’m currently based in Nigeria<br>👨‍💻 I like experimenting and understanding how things work<br>🚀 Projects by me, you should check [LogadApp\Validator](https://github.com/logadapp/validator)<br>📥 Contact me at mycodemichael[at]gmail.com OR michael[at]logad.net
 
 
 ## 🌐 Socials:
