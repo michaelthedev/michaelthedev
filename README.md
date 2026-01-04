@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Michael 👋
+  # Hi, I'm Michael Arawole 👋
 
   ### Fullstack Web Developer | Senior Backend Engineer | PHP & JavaScript
 </div>
