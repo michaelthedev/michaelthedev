@@ -9,7 +9,7 @@
 
 7+ years experience building scalable web applications, backend systems, APIs and Automations
 
-- 🏆 [Top PHP/Laravel dev in Nigeria](https://profile.codersrank.io/leaderboard/developer?technology=PHP&country=Nigeria)
+- 🏆 [Top PHP/Laravel dev in Nigeria](https://profile.codersrank.io/leaderboard/developer?technology=PHP&country=Nigeria) (According to CodersRank 😉)
 - 🏦 Significant experience in FinTech and Payment Solutions
 - 💼 Currently building [Paymita](https://www.paymita.com)
 - 🌐 International Collaborations (Netherlands, Denmark, UK..)
