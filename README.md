@@ -11,7 +11,7 @@
 
 - 🏆 [Top PHP/Laravel dev in Nigeria](https://profile.codersrank.io/leaderboard/developer?technology=PHP&country=Nigeria) (According to CodersRank 😉)
 - 🏦 Significant experience in FinTech and Payment Solutions
-- 💼 Currently building [Paymita](https://www.paymita.com), [AlabaLink](https://www.alabalink.com), [ConsultLink](https://www.consultlink.nl) 
+- 💼 Currently building [Paymita](https://www.paymita.com), [AlabaLink](https://alabalink.com), [ConsultLink](https://www.consultlink.nl), [Ecompliance](https://www.ecompliance.nl)  
 - 🌐 International Collaborations (Netherlands, Denmark, UK..)
 - 🛠️ Created [LogadApp\Validator](https://github.com/logadapp/validator)
 - 🔍 I like experimenting and figuring out how things work
