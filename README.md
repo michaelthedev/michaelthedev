@@ -26,10 +26,6 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://profile.codersrank.io/leaderboard/developer?technology=PHP&country=Nigeria" target="_blank">
-  <img width="300" height="300" alt="CodersRank PHP Leaderboard Nigeria" src="https://github.com/user-attachments/assets/9d76290f-9d44-43dc-b81e-696a1d123daa" />
-</a>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=michaelthedev&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ## 🌐 Connect With Me
