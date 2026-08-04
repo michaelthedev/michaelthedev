@@ -7,7 +7,7 @@
 
 ## 🚀 Me and what I'm Up To
 
-7+ years experience building scalable web applications, backend systems, APIs and Automations
+8+ years experience building scalable web applications, backend systems, APIs and Automations
 
 - 🏆 [Top PHP/Laravel dev in Nigeria](https://profile.codersrank.io/leaderboard/developer?technology=PHP&country=Nigeria) (According to CodersRank 😉)
 - 🏦 Significant experience in FinTech and Payment Solutions
